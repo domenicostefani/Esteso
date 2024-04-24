@@ -1,7 +1,8 @@
 ﻿# Additional material for the paper < *Esteso:* Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques  
 ---
+_Authors:_  
 Domenico Stefani, Matteo Tomasetti, Filippo Angeloni, Luca Turchet
----
+
 
 ![us](https://github.com/domenicostefani/Esteso/assets/23708296/8dfe20f0-d331-45cf-995b-a9d70778e467)
 
@@ -30,21 +31,23 @@ Here are quick previous of the three techniques:
 ### *Brushed Jetè*
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/86dd0490-b199-4c3a-87db-4f2d4870b093" width="40%" >
 
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/a579d3c0-e1c8-416a-9fb6-80e8df915c8e
+https://github.com/domenicostefani/Esteso/assets/23708296/472aed39-964b-4523-abae-35061e2e456f
+
 
 ### *Sfregato con Legno*
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/373c05bc-533d-4c6a-a9f4-4d6aefa842cb" width="40%" >
 
-
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/f765a78b-d840-41f4-8fb5-1bec997a5086
-
+https://github.com/domenicostefani/Esteso/assets/23708296/4627d3de-0513-4dbc-8bfa-c41555f3f4df
 
 
 
 ### *Percussive*
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/b39d59ff-dc95-4d88-9b5a-a39bda37fdc0" width="40%" >
 
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/d0ff811e-55bd-472e-b9b8-9f52f7fff881
+
+
+https://github.com/domenicostefani/Esteso/assets/23708296/3fff7d10-0e35-490f-8ff4-fa92dae75832
+
 
 
 ## Timbre-transfer model
@@ -56,16 +59,15 @@ Quick lower quality versions are available below:
 
 ### Dry *Brushed Jetè*
 
-
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/6263c1ef-39a8-4278-9dcc-924ecf20a816
-
+https://github.com/domenicostefani/Esteso/assets/23708296/472aed39-964b-4523-abae-35061e2e456f
 
 
 ### *Brushed Jetè* through RAVE
 
 
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/f7d52250-243b-408f-bf6d-ea70c3eb46da
 
+
+https://github.com/domenicostefani/Esteso/assets/23708296/0e100bf3-fcc7-4425-80c5-76493e1e4493
 
 
 
@@ -74,33 +76,33 @@ https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/f7d5
 ### Dry *Sfregato con Legno*
 
 
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/0464276f-3c98-435d-bedd-d2a4bd6caa53
-
+https://github.com/domenicostefani/Esteso/assets/23708296/4627d3de-0513-4dbc-8bfa-c41555f3f4df
 
 
 ### *Sfregato con Legno* through RAVE
 
 
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/c13c4673-3492-4818-8bff-06e13c7261ad
+
+https://github.com/domenicostefani/Esteso/assets/23708296/abf71002-c555-481f-85c1-1bf9ba7c109f
 
 
 
 
 ### Dry *Percussive*
 
-
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/adc2a038-5d78-42f2-bad4-6ffc9bf861c3
+https://github.com/domenicostefani/Esteso/assets/23708296/3fff7d10-0e35-490f-8ff4-fa92dae75832
 
 
 
 ### *Percussive* through RAVE
 
 
-https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/fff2bdc6-2df2-4087-b8f7-5da6cf30f0e2
+
+https://github.com/domenicostefani/Esteso/assets/23708296/ba90cb72-e609-4da4-8dd7-7f9ff8fdc31d
 
 
 
-Note that the sounds heard on other demo videos are not only the result of manipulation using the RAVE model, but also the use of granular synthesis and reverb.
+Note that the sounds heard on other demo videos are not only the result of manipulation using the RAVE model, but also the use of granular synthesis and reverb, as described in the paper.
 
 ---
 Domenico Stefani, Matteo Tomasetti, Filippo Angeloni, Luca Turchet
