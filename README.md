@@ -1,19 +1,19 @@
-﻿# Additional material for the paper < *Esteso:* Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques >
-**Temporary repository for double-blind peer review.**
+﻿# Additional material for the paper < *Esteso:* Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques  
+---
+Domenico Stefani, Matteo Tomasetti, Filippo Angeloni, Luca Turchet
+---
 
-![us-anonymized](https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/5fecde41-dc81-45db-a4b8-8732fd14d5a6)
+![us](https://github.com/domenicostefani/Esteso/assets/23708296/8dfe20f0-d331-45cf-995b-a9d70778e467)
 
 
-Demo video at [https://youtu.be/NFJufro7VCY](https://youtu.be/NFJufro7VCY)
+Demo video at [https://youtu.be/HEhJXAgFiXM](https://youtu.be/HEhJXAgFiXM)
 
-[<img src="https://img.youtube.com/vi/NFJufro7VCY/maxresdefault.jpg" width="70%" >](https://youtu.be/NFJufro7VCY)
-
+[<img src="https://img.youtube.com/vi/HEhJXAgFiXM/maxresdefault.jpg" width="70%" >](https://youtu.be/HEhJXAgFiXM)
 
 
 ## System Architecture
 
-
-<img src="https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/15a7065b-24bf-4a51-9098-8d84ce17a163" width="70%" >
+<img src="https://github.com/domenicostefani/Esteso/assets/23708296/ef80d8c0-0bef-4a68-98dc-b23a763ce2d6" width="70%" >
 
 ## Extended Double Bass Techniques
 
@@ -28,14 +28,12 @@ Here are quick previous of the three techniques:
 
 
 ### *Brushed Jetè*
-<img src="https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/3b25a3ac-ebb2-4909-9a48-fe1a4d8c7d8a" width="40%" >
+<img src="https://github.com/domenicostefani/Esteso/assets/23708296/86dd0490-b199-4c3a-87db-4f2d4870b093" width="40%" >
 
 https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/a579d3c0-e1c8-416a-9fb6-80e8df915c8e
 
 ### *Sfregato con Legno*
-<img src="https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/7d148145-6c90-43d1-8924-15c747c7a484" width="40%" >
-
-
+<img src="https://github.com/domenicostefani/Esteso/assets/23708296/373c05bc-533d-4c6a-a9f4-4d6aefa842cb" width="40%" >
 
 
 https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/f765a78b-d840-41f4-8fb5-1bec997a5086
@@ -44,7 +42,7 @@ https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/f765
 
 
 ### *Percussive*
-<img src="https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/fcaacc72-1b0d-4b84-ba20-4ccdba9e7694" width="40%" >
+<img src="https://github.com/domenicostefani/Esteso/assets/23708296/b39d59ff-dc95-4d88-9b5a-a39bda37fdc0" width="40%" >
 
 https://github.com/anonymousconference242/23626-temp-12565/assets/158570640/d0ff811e-55bd-472e-b9b8-9f52f7fff881
 
