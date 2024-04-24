@@ -26,7 +26,7 @@ Full performance [here](https://youtu.be/oncw3G4sLuM)
 
 
 High-quality samples of the double bass extended techniques chosen from the personal vocabulary of the musician can be found in the `SoundDemos` folder.  
-Here are quick previous of the three techniques:
+Here are some audio extracts of the musician playing with the three techniques:
 
 
 ### *Brushed Jetè*
