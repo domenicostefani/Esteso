@@ -7,7 +7,8 @@ Domenico Stefani, Matteo Tomasetti, Filippo Angeloni, Luca Turchet
 ![us](https://github.com/domenicostefani/Esteso/assets/23708296/8dfe20f0-d331-45cf-995b-a9d70778e467)
 
 
-Demo video at [https://youtu.be/HEhJXAgFiXM](https://youtu.be/HEhJXAgFiXM)
+Short demo video at [https://youtu.be/HEhJXAgFiXM](https://youtu.be/HEhJXAgFiXM)  
+Full performance [here](https://youtu.be/oncw3G4sLuM)
 
 [<img src="https://img.youtube.com/vi/HEhJXAgFiXM/maxresdefault.jpg" width="70%" >](https://youtu.be/HEhJXAgFiXM)
 
