@@ -1,0 +1,194 @@
+{
+	"pattrstorage" : 	{
+		"name" : "foo",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bp.Reverb 2::Damping" : [ 12000.0 ],
+					"bp.Reverb 2::Decay" : [ 52.086614173228341 ],
+					"bp.Reverb 2::Diffusion" : [ 0.401574803149606 ],
+					"bp.Reverb 2::Mix" : [ 64.173228346456682 ],
+					"bp.Reverb 2::Size" : [ 54.921259842519653 ],
+					"bp.Reverb 2::bypass" : [ 0.0 ],
+					"lfos::bp.LFO2::FreqRate" : [  ],
+					"lfos::bp.LFO2::Mute" : [  ],
+					"lfos::bp.LFO2::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2::SpectraShape" : [  ],
+					"lfos::bp.LFO2::SyncRate" : [  ],
+					"lfos::bp.LFO2::TimeMode" : [  ],
+					"lfos::bp.LFO2::re-trigger" : [  ],
+					"lfos::bp.LFO2[1]::FreqRate" : [  ],
+					"lfos::bp.LFO2[1]::Mute" : [  ],
+					"lfos::bp.LFO2[1]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[1]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[1]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[1]::SyncRate" : [  ],
+					"lfos::bp.LFO2[1]::TimeMode" : [  ],
+					"lfos::bp.LFO2[1]::re-trigger" : [  ],
+					"lfos::bp.LFO2[2]::FreqRate" : [  ],
+					"lfos::bp.LFO2[2]::Mute" : [  ],
+					"lfos::bp.LFO2[2]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[2]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[2]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[2]::SyncRate" : [  ],
+					"lfos::bp.LFO2[2]::TimeMode" : [  ],
+					"lfos::bp.LFO2[2]::re-trigger" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"bp.Reverb 2::Damping" : [ 12000.0 ],
+					"bp.Reverb 2::Decay" : [ 52.086614173228341 ],
+					"bp.Reverb 2::Diffusion" : [ 0.401574803149606 ],
+					"bp.Reverb 2::Mix" : [ 50.787401574803127 ],
+					"bp.Reverb 2::Size" : [ 14.763779527559084 ],
+					"bp.Reverb 2::bypass" : [ 0.0 ],
+					"lfos::bp.LFO2::FreqRate" : [  ],
+					"lfos::bp.LFO2::Mute" : [  ],
+					"lfos::bp.LFO2::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2::SpectraShape" : [  ],
+					"lfos::bp.LFO2::SyncRate" : [  ],
+					"lfos::bp.LFO2::TimeMode" : [  ],
+					"lfos::bp.LFO2::re-trigger" : [  ],
+					"lfos::bp.LFO2[1]::FreqRate" : [  ],
+					"lfos::bp.LFO2[1]::Mute" : [  ],
+					"lfos::bp.LFO2[1]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[1]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[1]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[1]::SyncRate" : [  ],
+					"lfos::bp.LFO2[1]::TimeMode" : [  ],
+					"lfos::bp.LFO2[1]::re-trigger" : [  ],
+					"lfos::bp.LFO2[2]::FreqRate" : [  ],
+					"lfos::bp.LFO2[2]::Mute" : [  ],
+					"lfos::bp.LFO2[2]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[2]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[2]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[2]::SyncRate" : [  ],
+					"lfos::bp.LFO2[2]::TimeMode" : [  ],
+					"lfos::bp.LFO2[2]::re-trigger" : [  ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"bp.Reverb 2::Damping" : [ 12000.0 ],
+					"bp.Reverb 2::Decay" : [ 9.566929133858311 ],
+					"bp.Reverb 2::Diffusion" : [ 0.031496062992126 ],
+					"bp.Reverb 2::Mix" : [ 49.606299212598451 ],
+					"bp.Reverb 2::Size" : [ 8.661417322834779 ],
+					"bp.Reverb 2::bypass" : [ 0.0 ],
+					"lfos::bp.LFO2::FreqRate" : [  ],
+					"lfos::bp.LFO2::Mute" : [  ],
+					"lfos::bp.LFO2::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2::SpectraShape" : [  ],
+					"lfos::bp.LFO2::SyncRate" : [  ],
+					"lfos::bp.LFO2::TimeMode" : [  ],
+					"lfos::bp.LFO2::re-trigger" : [  ],
+					"lfos::bp.LFO2[1]::FreqRate" : [  ],
+					"lfos::bp.LFO2[1]::Mute" : [  ],
+					"lfos::bp.LFO2[1]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[1]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[1]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[1]::SyncRate" : [  ],
+					"lfos::bp.LFO2[1]::TimeMode" : [  ],
+					"lfos::bp.LFO2[1]::re-trigger" : [  ],
+					"lfos::bp.LFO2[2]::FreqRate" : [  ],
+					"lfos::bp.LFO2[2]::Mute" : [  ],
+					"lfos::bp.LFO2[2]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[2]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[2]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[2]::SyncRate" : [  ],
+					"lfos::bp.LFO2[2]::TimeMode" : [  ],
+					"lfos::bp.LFO2[2]::re-trigger" : [  ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"bp.Reverb 2::Damping" : [ 1800.000000000000227 ],
+					"bp.Reverb 2::Decay" : [ 45.0 ],
+					"bp.Reverb 2::Diffusion" : [ 0.2 ],
+					"bp.Reverb 2::Mix" : [ 22.047244094488178 ],
+					"bp.Reverb 2::Size" : [ 14.960629921259876 ],
+					"bp.Reverb 2::bypass" : [ 0.0 ],
+					"lfos::bp.LFO2::FreqRate" : [  ],
+					"lfos::bp.LFO2::Mute" : [  ],
+					"lfos::bp.LFO2::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2::SpectraShape" : [  ],
+					"lfos::bp.LFO2::SyncRate" : [  ],
+					"lfos::bp.LFO2::TimeMode" : [  ],
+					"lfos::bp.LFO2::re-trigger" : [  ],
+					"lfos::bp.LFO2[1]::FreqRate" : [  ],
+					"lfos::bp.LFO2[1]::Mute" : [  ],
+					"lfos::bp.LFO2[1]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[1]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[1]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[1]::SyncRate" : [  ],
+					"lfos::bp.LFO2[1]::TimeMode" : [  ],
+					"lfos::bp.LFO2[1]::re-trigger" : [  ],
+					"lfos::bp.LFO2[2]::FreqRate" : [  ],
+					"lfos::bp.LFO2[2]::Mute" : [  ],
+					"lfos::bp.LFO2[2]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[2]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[2]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[2]::SyncRate" : [  ],
+					"lfos::bp.LFO2[2]::TimeMode" : [  ],
+					"lfos::bp.LFO2[2]::re-trigger" : [  ]
+				}
+
+			}
+,
+			"24" : 			{
+				"id" : 24,
+				"data" : 				{
+					"bp.Reverb 2::Damping" : [  ],
+					"bp.Reverb 2::Decay" : [  ],
+					"bp.Reverb 2::Diffusion" : [  ],
+					"bp.Reverb 2::Mix" : [  ],
+					"bp.Reverb 2::Size" : [  ],
+					"bp.Reverb 2::bypass" : [  ],
+					"lfos::bp.LFO2::FreqRate" : [  ],
+					"lfos::bp.LFO2::Mute" : [  ],
+					"lfos::bp.LFO2::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2::SpectraShape" : [  ],
+					"lfos::bp.LFO2::SyncRate" : [  ],
+					"lfos::bp.LFO2::TimeMode" : [  ],
+					"lfos::bp.LFO2::re-trigger" : [  ],
+					"lfos::bp.LFO2[1]::FreqRate" : [  ],
+					"lfos::bp.LFO2[1]::Mute" : [  ],
+					"lfos::bp.LFO2[1]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[1]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[1]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[1]::SyncRate" : [  ],
+					"lfos::bp.LFO2[1]::TimeMode" : [  ],
+					"lfos::bp.LFO2[1]::re-trigger" : [  ],
+					"lfos::bp.LFO2[2]::FreqRate" : [  ],
+					"lfos::bp.LFO2[2]::Mute" : [  ],
+					"lfos::bp.LFO2[2]::Phase-Inversion" : [  ],
+					"lfos::bp.LFO2[2]::SpectraLFOPhase[1]" : [  ],
+					"lfos::bp.LFO2[2]::SpectraShape" : [  ],
+					"lfos::bp.LFO2[2]::SyncRate" : [  ],
+					"lfos::bp.LFO2[2]::TimeMode" : [  ],
+					"lfos::bp.LFO2[2]::re-trigger" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
