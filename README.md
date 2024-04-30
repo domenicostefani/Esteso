@@ -1,5 +1,6 @@
-﻿# Additional material for the paper < *Esteso:* Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques  
----
+﻿# *Esteso:* Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques  
+_Additional material accompanying the paper submitted to the 2024 International Conference on New Interfaces for Musical Expression (NIME)._  
+
 _Authors:_  
 Domenico Stefani, Matteo Tomasetti, Filippo Angeloni, Luca Turchet
 
@@ -13,11 +14,18 @@ Full performance [here](https://youtu.be/oncw3G4sLuM)
 [<img src="https://img.youtube.com/vi/HEhJXAgFiXM/maxresdefault.jpg" width="70%" >](https://youtu.be/HEhJXAgFiXM)
 
 
-## System Architecture
+## Repository Structure
+
+- `maxpatch/` contains the MaxMSP patches used for the project. More details in `maxpatch/README/md`.
+- `SoundDemos/` contains audio samples of the extended double bass techniques and the timbre transfer model.
+
+## Additional Material 
+
+### _Esteso_'s System Architecture
 
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/ef80d8c0-0bef-4a68-98dc-b23a763ce2d6" width="70%" >
 
-## Extended Double Bass Techniques
+### Extended Double Bass Techniques
 
 - _"Brushed" Jeté_: Jeté (or Ricochet technique) with brushed characteristics, introduced with careful use of bow actions and angle.
 - _Sfregato con legno_: Open strings are struck and the wood part of the bow is slid along the string from the bridge, barely making contact with it. It introduces a peculiar buzzing sound. 
@@ -29,20 +37,20 @@ High-quality samples of the double bass extended techniques chosen from the pers
 Here are some audio extracts of the musician playing with the three techniques:
 
 
-### *Brushed Jetè*
+#### *Brushed Jetè*
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/86dd0490-b199-4c3a-87db-4f2d4870b093" width="40%" >
 
 https://github.com/domenicostefani/Esteso/assets/23708296/472aed39-964b-4523-abae-35061e2e456f
 
 
-### *Sfregato con Legno*
+#### *Sfregato con Legno*
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/373c05bc-533d-4c6a-a9f4-4d6aefa842cb" width="40%" >
 
 https://github.com/domenicostefani/Esteso/assets/23708296/4627d3de-0513-4dbc-8bfa-c41555f3f4df
 
 
 
-### *Percussive*
+#### *Percussive*
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/b39d59ff-dc95-4d88-9b5a-a39bda37fdc0" width="40%" >
 
 
@@ -51,19 +59,19 @@ https://github.com/domenicostefani/Esteso/assets/23708296/3fff7d10-0e35-490f-8ff
 
 
 
-## Timbre-transfer model
+### Timbre-transfer model
 
 We employed a [RAVE](https://github.com/acids-ircam/RAVE) timbre transfer model trained on double-bass sounds from the OrchideaSOL dataset.  
 We precisely chose to use it as it produced a peculiar hybrid double-bass sound when processing real double-bass recordings.  
 Samples of dry and processed sounds (only through the custom RAVE model) for each technique are present in the `SoundDemos\timbre_transfer_demo_extended_techniques` folder.  
 Quick lower quality versions are available below:  
 
-### Dry *Brushed Jetè*
+#### Dry *Brushed Jetè*
 
 https://github.com/domenicostefani/Esteso/assets/23708296/472aed39-964b-4523-abae-35061e2e456f
 
 
-### *Brushed Jetè* through RAVE
+#### *Brushed Jetè* through RAVE
 
 
 
@@ -74,13 +82,13 @@ https://github.com/domenicostefani/Esteso/assets/23708296/0e100bf3-fcc7-4425-80c
 
 
 
-### Dry *Sfregato con Legno*
+#### Dry *Sfregato con Legno*
 
 
 https://github.com/domenicostefani/Esteso/assets/23708296/4627d3de-0513-4dbc-8bfa-c41555f3f4df
 
 
-### *Sfregato con Legno* through RAVE
+#### *Sfregato con Legno* through RAVE
 
 
 
@@ -89,13 +97,13 @@ https://github.com/domenicostefani/Esteso/assets/23708296/abf71002-c555-481f-85c
 
 
 
-### Dry *Percussive*
+#### Dry *Percussive*
 
 https://github.com/domenicostefani/Esteso/assets/23708296/3fff7d10-0e35-490f-8ff4-fa92dae75832
 
 
 
-### *Percussive* through RAVE
+#### *Percussive* through RAVE
 
 
 
