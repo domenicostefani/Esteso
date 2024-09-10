@@ -1,11 +1,13 @@
 ﻿# *Esteso:* Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques  
-_Additional material accompanying the paper "**Esteso: Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Technique**s" at the 2024 International Conference on New Interfaces for Musical Expression (**NIME 2024**)._  
+_Additional material accompanying the paper ["**Esteso: Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques**"](https://domenicostefani.com/publications/2024NIME_Esteso.pdf) at the 2024 International Conference on New Interfaces for Musical Expression (**NIME 2024**)._  
 
 Domenico Stefani, Matteo Tomasetti, Filippo Angeloni, Luca Turchet
 
 
 
-<img src="https://github.com/user-attachments/assets/bc28bf45-3664-46bd-85db-34b7346efbf8" width="70%" >
+<img src="https://github.com/user-attachments/assets/bc28bf45-3664-46bd-85db-34b7346efbf8" width="70%" >  
+  
+_Picture by Alberto Boem_
 
 <img src="https://github.com/domenicostefani/Esteso/assets/23708296/8dfe20f0-d331-45cf-995b-a9d70778e467" width="60%" >
 
